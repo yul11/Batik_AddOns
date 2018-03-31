@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Qellcode_zu_add/src"/>
+	<classpathentry exported="true" kind="lib" path="add.jar"/>
+	<classpathentry exported="true" kind="lib" path="batik-dom-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="batik-script.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Qellcode_zu_add/bin"/>
+</classpath>
